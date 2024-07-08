@@ -1,0 +1,18 @@
+#include stcolor
+color background white
+color plotregion none
+linestyle plotregion none
+color grid dimgray
+color major_grid dimgray
+color minor_grid dimgray
+linewidth grid thin
+linewidth major_grid thin
+linewidth minor_grid thin
+yesno draw_major_vgrid no
+yesno draw_major_hgrid no
+yesno draw_minor_vgrid no
+yesno draw_minor_hgrid no
+color heading black
+color textbox none
+color bylabel_outline none
+color mat_label_box none

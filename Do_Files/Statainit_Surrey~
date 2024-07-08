@@ -1,0 +1,4 @@
+STATATMP=T"/ddrive1/Dropbox/spain_migr/code/Stata/MPFILES"
+export STATATMP
+cd "/ddrive1/Dropbox/spain_migr/code/Stata/"
+"/usr/local/stata18/xstata-mp"

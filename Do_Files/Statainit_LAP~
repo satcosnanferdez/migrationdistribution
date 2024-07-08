@@ -1,0 +1,4 @@
+STATATMP="/home/jcostas/Dropbox/Immigration_and_Labour_Productivity/EconLetters/Do_Files/TMPFILES"
+export STATATMP
+cd "/home/jcostas/Dropbox/Immigration_and_Labour_Productivity/EconLetters/Do_Files"
+"/usr/local/stata18/xstata-xt"
